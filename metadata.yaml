@@ -1,5 +1,8 @@
 _repo: Subscription-the-disgrace-of-the-English-Church-2nd-edition_63735
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63735-h/images/cover.jpg
 creator:
   author:
     agent_name: Wodehouse, C. N. (Charles Nourse)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '52571'
     url: http://www.gutenberg.org/2009/agents/52571
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63735#Subscription-the-disgrace-of-the-English-Church-2nd-edition
 gutenberg_issued: '2020-11-13'
 gutenberg_type: Text
 identifiers:
