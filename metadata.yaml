@@ -1,0 +1,28 @@
+_repo: Subscription-the-disgrace-of-the-English-Church-2nd-edition_63735
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, C. N. (Charles Nourse)
+    aliases:
+    - Wodehouse, Charles N. (Charles Nourse)
+    - Wodehouse, Charles Nourse
+    birthdate: 1790
+    deathdate: 1870
+    gutenberg_agent_id: '52571'
+    url: http://www.gutenberg.org/2009/agents/52571
+description: ''
+gutenberg_issued: '2020-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Church of England -- Controversial literature'
+- !lcsh 'Church of England. Thirty-nine Articles'
+- GITenberg
+title: Subscription the disgrace of the English Church [2nd edition]
+url: http://www.gutenberg.org/ebooks/63735
